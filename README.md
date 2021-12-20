@@ -4,9 +4,6 @@ something about me: i'm a cs student interested in ml, maybe after passing exam 
 besides studying, my main hobby is ornithology and i'm currently learning chinese. 
 
 
-
-**Kulawy Kustosz** 
-
 # Kulawy Kustosz
 Projekt Kulawy Kustosz tworzyliśmy w ramach zaliczenia przedmiotu Narzędzia Informatyczne. Głównym celem projektu było napisanie prostej gry - popularnego Snake'a, za pomocą takich technologii jak HTML, JS, CSS. Podczas projektu ważną rolę odgrywało także poznawanie różnych narzędzi do pracy grupowej jak np. GitHub, Slack, Google Drive itp.
 
